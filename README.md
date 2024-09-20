@@ -3,5 +3,6 @@ use case диаграмма - https://drive.google.com/file/d/1aTsHPpAZdZixsGMKE
 
 ER-диаграмма:
 
-![ER-диаграмма](https://github.com/user-attachments/assets/61684db3-7936-4127-b926-c1e8eccf1a3f)
+![ER-диаграмма](https://github.com/user-attachments/assets/2137d944-e470-43c2-8fa1-6f515b46d370)
+
 
